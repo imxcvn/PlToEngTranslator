@@ -1,0 +1,5 @@
+czesto often
+zawsze always
+nigdy never
+czasami sometimes
+rzadko rarely
